@@ -2,6 +2,7 @@ name: TENT
 favicon: null
 layout_spectrum: 0.54828
 typography_spectrum: 0.47586
+title: TENT
 cta:
   domain: null
   bucket: null
