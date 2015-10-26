@@ -1,7 +1,7 @@
 name: TENT
 favicon: null
-layout_spectrum: 0.54828
-typography_spectrum: 0.47586
+layout_spectrum: 0.84138
+typography_spectrum: 0.5931
 title: TENT
 cta:
   domain: null
@@ -18,11 +18,11 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#75c3d7'
-    - '#ee545d'
-    - '#f3898f'
-    - '#c0e3ec'
-  brandStrength: 1
+    - '#75bdc9'
+    - '#dc4f58'
+    - '#f2c8c2'
+    - '#e7878b'
+  brandStrength: 0.5625
   lightness: 0.75
   saturation: 0.8125
   rhythmicContrast: 0.44628734258003533
