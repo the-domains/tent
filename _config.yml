@@ -1,7 +1,7 @@
 name: TENT
 favicon: null
-layout_spectrum: 0.54828
-typography_spectrum: 0.60689
+layout_spectrum: 0.47242
+typography_spectrum: 0.11034
 title: 'TENT:  A Creative Outpost'
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#f1767d'
     - '#f6afb2'
   brandStrength: 1
-  lightness: 0.75
-  saturation: 0.8125
-  rhythmicContrast: 0.44628734258003533
+  lightness: 0.8125
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
