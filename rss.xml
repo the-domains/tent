@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TENT:  A Creative Outpost]]></title>
+        <description><![CDATA[TENT:  A Creative Outpost]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 29 Oct 2015 03:52:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Marfa Outpost]]></title>
+            <description><![CDATA[<article><h1>Marfa Outpost</h1><p>Let's work outside: All employees at TENT have the option of working from Marfa, Texas.</p></article>]]></description>
+            <link>undefinedmarfa-outpost/index.html</link>
+            <guid isPermaLink="false">8c0f1149-539d-446c-8b41-50a572d23dff</guid>
+            <pubDate>Thu, 29 Oct 2015 03:52:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
